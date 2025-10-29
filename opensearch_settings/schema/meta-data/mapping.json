@@ -1,0 +1,25 @@
+{
+  "properties": {
+    "id": {
+      "type": "keyword"
+    },
+    "status": {
+      "type": "keyword"
+    },
+    "start": {
+      "type": "date"
+    },
+    "end": {
+      "type": "date"
+    },
+    "count": {
+      "type": "integer"
+    },
+    "totalCount": {
+      "type": "object"
+    },
+    "personCount": {
+      "type": "integer"
+    }
+  }
+}

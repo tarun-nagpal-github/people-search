@@ -1,0 +1,1293 @@
+3PL,Third party logistics
+4-forces framework,forces at work
+5 Frames,Five Frames
+5S,Five S
+6 Sigma,Six Sigma
+A&A,Automotive & Assembly
+A&D,Aerospace & Defence
+A&E,Ambulance & Emergency,Architects & Engineers
+A2E,Ability to Execute
+AA,Advanced Analytics
+ABAP,Advanced Business Application Programming
+Abigail,Abbie,Abby
+ABS,Asset-Backed Securities
+ABUD,abu dhabi
+ACA,Affordable Care Act
+ACE,Accelerated Capability-Building Engine
+acknowledgment ,acknowledgement
+ACMI,Aircraft Crew Maintenance & Insurance
+ACPM,Credit portfolio management
+ACSI,American Customer Satisfaction Index
+AD&I,Access Diversity & Inclusion
+ADAPT,Awareness Desire Attempt Proficient Transformed
+ADDI,addis ababa
+ADI,All In Diversity & Inclusion
+ADIR,Director
+ADO&O,Application Development Outsourcing & Offshoring,Application Development O&O
+ADR,Adverse Drug Reaction
+ADS,Active Directory authorization system
+AE/Tech,Advanced Electronics / Tech
+AED,Analytics Engagement Director or Analytics ED
+AEX,Amsterdam Exchange
+AFK,Away from Keyboard
+AGG 2.0,Asia Going Global
+aging,ageing
+AGx,Authorized Generics
+AHT,Average Handle Time
+AI,Artificial Intelligence
+AIDS,Acquired Immune Deficiency Syndrome
+Albert,Bert
+Alexander,Alex,Alec
+Alexandra,Alexandria,Alex,Alexa,Allie
+ALM,Asset & liability management
+ALMA,almaty
+aluminum,aluminium
+AMC,Academic Medical center
+AML,Anti Money Laundering
+AMNOG,German health reform
+amphitheater,amphitheatre
+AMPS,All Media Product Survey
+AMST,amsterdam
+analog,analogue
+analyze,analyse
+ANDA,Abbreviated New Drug Application
+Andrew,Andy,Drew
+anemia,anaemia
+Angela,Angelica,Angelina,Angeline,Angel,Angie
+ANKA,ankara
+Anna,Ann,Anne,Ann,Annie
+Anthony,Antony,Anton,Tony
+AOB,Any Other Business
+AP,Associate Partner
+APs,associate partners
+APAC,Asian Pacific American Coalition
+APC,Associate Partner Committee
+APD,Advanced Professional Degree
+APDRP,Accelerated Power Development & Reforms Programme
+API,Application Programming Interface,Active Pharmaceutical Ingredient
+APLC,Associate Partner Level Colleague
+APO,Advanced Planner & Organizer
+appall,appal
+appetizer,appetiser
+Apps,Applications
+armor,armour
+armory,armoury
+ARRT,Asia Regional Research Team
+ARV Coverage,Antiretroviral Therapy Coverage Rate
+ASA,Air Service Agreement
+ASAP,As soon as possible
+Asc,Associate
+ASD,Autism Spectrum Disorder
+Asean,Association of Southeast Asian Nations
+ASO,Administrative Services Only
+ASP,Application Service Provider,Application-service-provider,Application Service Provider
+ATCP,atlanta candid
+ATDE,atlanta design
+ATHE,athens
+ATLC,atlanta digital capability ctr
+ATLG,atlanta gci
+ATLM,atlanta mio
+ATLP,atlanta ponce
+ATLU,atlanta - midtown union
+ATM,Automated Teller Machine
+ATV,All Terrain Vehicles
+AUCK,auckland
+AUST,austin
+authorize,authorise
+AVA,Activity Value Analysis
+AWP,Average Wholesale Price
+B2B,Business to Business
+B2C,Business to Consumer
+BA,Business Analyst
+BAs,business analysts
+Back office,Back-office
+BAKU,baku
+BARC,barcelona
+BARD,barcelona s4g diputacio
+BAT,Business Analyst Training
+BAU,Business as Usual
+BBBEE,Broad Based Black Economic Empowerment
+BCBS,Blue Cross Blue Shield
+BCG,Boston Consulting Group
+BCR,Basic Consulting Readiness
+BEBR,bengaluru brigade center
+BEE,Black Economic Empowerment,Behavioral Energy Efficiency
+behavior,behaviour
+BEIJ,beijing
+BELG,belgrade
+BELO,belo horizonte
+BENG,bengaluru
+Benjamin,Ben
+BEOR,berlin orphoz
+BERL,berlin
+BI,Business Intelligence
+Bill,Billy
+biofuel,bio-fuel
+bioheat,bio-heat
+biotechnology,bio-tech,biotech
+BIS,Business Information Specialist
+BKR,Basic Knowledge Readiness
+BLA,Biologic Licensing Applications
+BNKK,bangkok
+BoB,Best-of-benchmarking,Banking Operations Benchmark
+BOGO,bogota
+BOLD,B2B Ops Latam Digital
+BOO,Build Own Operate,Build Operate Own
+BOOT,Build Own Operate Transfer
+BOP,Balance sheet Optimization Program,Bottom of the Pyramid
+BOST,boston congress
+BOT,Build Own Transfer,Build Operate Transfer
+BPA,Bisphenol A
+BPD,Business Presentation Designer
+BPM,Business Process Management
+BPO,Business Process Outsourcing
+BPO,Business process outsourcing
+BPO&O,Business Process Outsourcing & Offshoring
+BPOO,Business Process Outsourcing & Offshoring
+BPS,Business Presentation Specialist
+Bradford,Brad
+Bradley,Brad
+BREU,breukelen aberkyn
+BRIC,Brazil Russia India & China
+BRIS,brisbane
+BRUS,brussels
+BSF,Business Support Functions
+BTG,Boiler Turbine Generator
+BTO,Business Technology Office
+BU,Business Unit
+BUCH,bucharest
+BUDA,budapest
+BUDD,budapest digital studio
+BUEL,buenos aires libertador
+BUEN,buenos aires
+BUP,Bottom up plan
+buyside,buy side,buy-side
+BYOD,Bring Your Own Device
+C&I,Capabilities and insights
+C4P,Capabilities for Performance,Capability for Performance
+CA,Change Accelerator
+CAA,Civil Aviation Authority
+CAD,Client Asset Development
+CAGR,Compound Annual Growth Rate
+CAIR,cairo
+CALG,calgary
+caliber,calibre
+call center,call centre
+Cameron,Cam
+CANB,canberra
+canceled,cancelled
+candor,candour
+CAPEX,Capital Expenditure
+capitalize,capitalise
+Carol,Carole,Carrol,Carroll,Karol,Carrie
+Caroline,Carolyn,Carolina,Karolin
+carveout,carve out,carve-out
+CASA,casablanca
+CASC,chennai ascendas
+CASEE,Caring And Smart Engineered Entity
+Cassandra,Cass,Cassie,Cassey,Casey,Sandra,Sandy
+catalog,catalogue
+Catherine,Cathryn,Catheryn,Catharine,Cathleen,Cate,Kate
+CBF,Corporate & Business Functions
+CBM,Cloud by Mexico
+CCGT,Combined Cycle Gas Turbine
+CCPS,Co-Creative Problem Solving
+CCS,Carbon Capture & Storage
+CCT,Customer Centric Transformation
+CCTV,Close Circuit Television
+CCY,Currency
+CDA,Client Development Advisor
+CDDM,Client Document & Data Management
+CDDR,Client Data and Document Repository
+CDH,Client Development Hub
+CDHP,Consumers & Consumer Driven Health Plans,Consumer Directed Healthcare
+CDJ,Consumer Decision Journey
+CDL,Client Development Leader
+CDO,Collatorized Debt Obligations
+CDS,Credit Default Swap
+CDW,Connecting Devices & Workspaces
+CE,Communications Expert
+CE,Consumer Electronics
+CEDD,Centre of Excellence for Drug Discovery
+CEE,Central Eastern Europe
+Center of Excellence,Centre of Excellence
+Center of government,Centre of government
+center,centre
+centimeter,centimetre
+CEO,Chief Executive Officer
+CEP,Courier Express & Parcel
+CER,Client Engagement Report
+cesarean,caesarean
+CF,Corporate Finance
+CFA,Contracting for Availability
+CFC,Contracting for Capability
+CFO,Chief Financial Officer
+CFR,Closed File Review
+CFROI,Cash Flow Return on Investment
+CFS,client file sharing
+CHAR,carolinas charlotte
+characterize,characterise
+Charles,Charlie,Charley,Chuck,
+CHDE,chicago design
+check ,cheque
+checker,chequer
+Chester,Chet
+CHGO,chicago randolph
+CHNG,chengdu
+CHNN,chennai
+CHP,Combined Heat & Power
+Christopher,Kristopher,Chris,
+CHRO,Chief human resource officer
+CHTE,chicago tech hub
+CI,Continuous improvement
+CIB,Corporate & Investment Banking
+CIG,Consumer Interest Group
+CIO,Chief Information Officer
+CIS,Commonwealth of Independent States
+civilize,civilise
+CKO,Chief Knowledge Officer
+CL,Centered Leadership
+clamor,clamour
+Clayton,Clay
+clean tech,cleantech,clean technology
+CLEV,ohio cleveland
+CLF ,Change Leaders Forum
+CLGN,cologne
+CLM,Customer Life-Cycle Management
+CLMB,colombo
+CLO,Collateralized loan obligations
+CLW,Client Leadership Workshop
+CMD,Capital Market Diagnostic
+CMDB,Configuration Management Database
+CME,Continuing Medical Education
+CMF,Content Monitoring & Filtering
+CMMI,Capability Maturity Model Integration
+CMO,Chief Marketing Officer
+CMS,Centers for Medicare and Medicaid services
+CMS,Comprehensive Primary Care
+CMU,Center for Managing Uncertainty
+CNG,Compressed Natural Gas
+CNS,Central Nervous System
+CO,Controlling
+CO2,Carbon Dioxide
+CoE,Center of Excellence
+Cogen,Cogeneration
+colonize,colonise
+color,colour
+COLU,ohio - columbus
+comms,Communications
+COPE,copenhagen
+Corp,Corporate
+counselor,counsellor
+CPAT,Corporate Performance Analysis Tool
+CPC,Corporate Performance Center,Cost Per Click
+CPD,Capital Productivity
+CPD,Consumer Products Division
+CPFR,Collaborative Planning Forecasting & Replenishment
+CPG,Consumer Packaged Goods
+CPM,Credit Portfolio Management
+CPO,Chief Procurement Officer
+CPRS,Carbon Pollution Reduction Scheme
+CPT,Cloud Partner Team
+CR,Client Relations
+CRI,Cyber Risk Insights
+criticize,criticise
+CRM,Customer Relationship Management
+CRO,Chief Risk Officer
+CRO,Contract Research Organization
+CRO,Contract Research Outsourcing
+CRS,Computer reservation system
+CRS,Congressional Research Service
+CS,Communication specialist
+CS,Community Service
+CS,Community service
+CSAT,Customer Satisfaction
+CSBB,Consumer & Small Business Banking
+CSCR,Clean Sheet Capital Redesign
+CSE,Corporate Social Engagement
+CSI,Consumer & Shopper Insights
+CSO,Contract Sales Organization
+CSP,Client Services Professional
+CSR,Corporate Social Responsibility
+CSRC,Client Service Risk Committee
+CSSH,Client Service Shareholder
+CST,Client-service team
+CTA,Call to Action
+CTD,Client Technology Delivery
+CTL,Counseled to leave
+CTLed, Counseled to leave
+CV,Cardiovascular
+CVCS,Central Venous Catheters
+CVR,Contingent Value Rights
+CWTC,chennai brigade wtc
+CXO,Chief Executive Officer
+DALL,dallas
+DALY,Disability Adjusted Life Years,Burden of disease
+Daniel,Dan,Danny
+DART,Direct-Access Research Tools
+DAS,Digital Analytic and Data Service
+David,Dave
+DB,Design Build
+DBB,Design Bid Build
+DBB,Digital Business Building
+DBFO,Demand Build Finance Operate
+DBO,Demand Build Operate
+DBO,Design Build Operate
+DBOOT,Design Build Own Operate & Transfer
+DCC,Digital Capability Center
+DCF,Discounted Cash Flow
+DCS,Director of Client Services
+DD,Due Diligence
+DDA,Demand Deposit Accounts
+DDD,Diagnosis Design & Delivery
+DDQ,Due Diligence Questionnaire
+DE,Direct Elect
+Deck,powerpoint presentation
+decentralization,decentralisation
+defense,defence
+demeanor,demeanour
+DENV,rocky mountains denver
+DETR,detroit
+Dev,Development
+DevX,Development Excellence
+DGL,Development Group Leader
+dialog,dialogue
+diarrhea,diarrhoea
+DILO,Day In The Life Of
+DIR,Director
+distill,distil
+DL,Deadline
+DLP,Data Leak Protection
+DMOT,Digital Marketing Operations and Tech
+DnA,Digital and Analytics
+DOD,US Dept of Defense
+DOE,US Dept of Energy
+DOHA,doha
+Dominic,Dominick,Domenic,Domenick,Dom,Nick,Nicky
+Don,Donnie,Donny
+Donald,Don,Donnie,Donny
+DoS,Day of Service
+Douglas,Douglass,Doug
+DP,Demand Planning
+DPF,Diesel Particulate Filter
+DPP,Development and Performance Profile
+DPU,Discovery Performance Units
+dramatize,dramatise
+DSD,Direct Store Delivery
+DSI,Deep Structure Interviews
+DSM,Demand Side Management
+DSP,Demand Side Platforms
+DSS,Decision Support Systems
+DTC,Direct-to-Consumer
+DTG,Design to Green
+DTS,Mexico Digital Transformation Services
+DTV,Design to Value
+DUBA,dubai
+DUBL,dublin
+DUSS,dusseldorf
+DUTH,dusseldorf tech hub
+DVD,Digital Video Disk
+DVR,Digital Video Recorder
+DW,Data Warehouse
+E&C,Engineering & Construction
+e-waste,ewaste
+E&P,Exploration & Production
+E2E,End-to-end
+E4E,Education for Employment
+EA,Executive Assistant
+EAs,executive assistants
+EAF,electric arc furnace
+EAP,Expert Associate Principal
+EARB,Enterprise Application Review Board
+EBIT,Earnings Before Interest & Tax
+ebooks,e-books
+EC,Economic Capital
+ECAP,Economic Capital & Capital Management
+ECEC,External Partner Candidate Evaluation Committee
+Econdev ,Economic Development Practice
+ECP,Economic Concepts Program 1 and 2
+ED,Engagement Director
+EDLP,Everyday Low Price
+EDOC,Economic Development Practice
+Edward,Ed,Eddie,Eddy
+EE,Eastern Europe
+EE,Energy Efficiency
+EEB,Energy Efficient Buildings
+EEMA,Eastern Europe Middle East and Africa
+EFT,Electronic Funds Transfer
+EHR,Electronic Health Record
+EHS,Health safety environment
+EIB,European Investment Bank
+EIM,Enterprise Information Management
+Elizabeth,Elisabeth,Betty,Elisa,ElizaLiz,Lizzy,Lizzie,Liza,Lisa
+ELM,Engagement Lifecycle Management
+ELMO,Enough Let's Move On
+ELW,Engagement Leadership Workshop
+EMs,engagement manager
+EM,Engagement Manager
+EMA,Employment Management Agency
+EME,Engagement Management Essentials
+EMEA,Europe Middle East & Africa
+emphasize,emphasise
+EMR,Electronic Medical Record
+EMS,Electronic Manufacturing Services
+EMSP,E-mobility Service Provider
+endeavor,endeavour
+enroll,enrol
+ENS,Expert Network Service
+ENT,Ear Nose Throat
+enthrall,enthral
+EOD,End of day
+EOM,End of message
+EOR,Enhanced Oil Recovery
+EOW,End Of Week
+EOY,End of Year
+EPC,Engineering Procurement Construction
+epilog,epilogue
+EPM,Enterprise Project Management
+EPNG,Electric Power & Natural Gas
+EPNG,Electric Power/Natural Gas
+EPR,Engagement Performance Review
+EPRN,Principal
+EPS,Earnings Per Share
+equaled,equalled
+equalize,equalise
+ereader,e-reader
+eRFX,Electronic Request for Information,Proposal or Quotation
+ERM,Enterprise Relationship Management
+ERP,Enterprise Resource Planning
+ESA,European Space Agency
+ESCO,Energy Service Company
+ESG,environmental social and governance
+ESP,Engagement Service Professional
+estrogen,oestrogen
+ETC,Engagement Talent Counselor
+ETRM,Energy Trading & Risk Management
+ETS,Engagement Team Survey - former barometer
+ETTC,Early Tenure Technology Committee
+EU,Europe,European Union
+US,USA,United States,United States of America
+NYC,NY,New York,New York CIty
+UK,United Kingdom,Great Britain
+EV,Electric Vehicles
+EVC,Economic Value to the Customer
+EVCI,Electric Vehicle Charging Infrastructure
+EVDO,Evolution Data Optimized
+EVP,Employee Value Proposition
+EVS,Economic Value to the Shareholder
+F-M,Fixed-Mobile
+F&A,Finance & Accounting
+F360,Finance Transformation
+FAA,Federal Aviation Administration
+FAQS,Frequently Asked Questions
+FAR,Fees-at-risk
+FASC,Associate
+favorite,favourite
+FCC,Federal Communications Commission
+FCG,functional capability groups
+FCP,Financial Concepts Program
+FCR,First Call Resolution
+FDA,Food & Drug Administration
+FDI,Foreign Direct Investment
+FDIC,Federal Deposit Insurance Corporation
+FDT,Finance Digital Transformation
+FELL,Business Analyst,Fellow
+FERC,US Federal Energy Regulatory Commission
+fetus,foetus
+FF&E,Furniture Fixtures & Equipment
+FFP,Frequent Flyer Program
+FFTH,Food for the Hungry
+FGD,Flue Gas Desulfurization
+FGT,Fast Growth Tech
+FI,Finance,Financial accounting
+fiber,fibre
+FICOD,Financial Conglomerates Directive
+FIFA,Fédération Internationale de Football Association
+FIG,Finance & Insurance Group
+flavor,flavour
+FMC,Fixed Mobile Convergence
+FMCG,Fast Moving Consumer Goods
+FMNO,Firm member number
+FOCI,Foreign Ownership,Control or Influence
+forces at work,Porter model
+FPIS,Firm Practice Information System
+FRAN,frankfurt
+Frances,Fran,Francie,Frankie
+Francesca,Francisca,Fran,Francie,Frankie
+Francis,Frank,Frankie,Franky,Fran
+Franklin,Franklyn,Frank,Frankie,Franky
+Frederick,Frederic,Fredrick,Fredric,Fred,Freddie,Freddy,Rick,Ricky
+FSA,Financial Services Authority
+FSP,Firm Service Professional
+FSRA,Associate
+FSW,Facilitation Skills Workshop
+FTA TV,Free to Air Television
+FTC,Federal Trade Commission
+FTE,Full time equivalent
+FTF,First to File
+FTTH,Fibre to the Home
+FTTX,Fibre to the X
+fueled,fuelled
+fueling,fuelling
+fulfill,fulfil
+FWIW,For what its worth
+FX,Foreign Exchange
+G&A,General & Administrative
+Gabriel,Gabe
+Gabrielle,Gabriela,Gabriella,Gabby,Gabi,Gaby
+GAO,US Government Accounting Office
+GCC,Global capability centers
+GCC,Gulf Cooperation Council
+GCI,Global Concepts Insights
+GCM,Global Capital Markets
+GDP,Gross Domestic Product
+GDS,Global Distribution Systems
+GDUFA,US Generic Drug User Fee Act
+GE,General Electric
+GEI,Global Economics Intelligence
+GEM,Global Energy & Materials
+Gen AI,Generative Artificial Intelligence
+Gen-AI,Generative Artificial Intelligence
+Gen,Generative
+GenAI,Generative Artificial Intelligence
+GENE,geneva
+Geoffrey,Jeffrey,Jeffery,Jeff
+Georgina,Georgine,Georgie,Gina
+GEP,Global Energy Perspective
+Gerald,Gerard,Gerry,Jerry
+GFA,Global Finance and Accounting
+GGC,Gross Geographical Contribution
+GGD,Granular Growth Decomposition
+GGGI,Global Green Growth Institute
+GHD,Global Helpdesk
+GHG,Greenhouse Gas
+Gillian,Jillian,Jill
+GIS,Geographic Information Systems
+GLAM,Gays & Lesbians & Bisexuals & Transsexuals at Mexico
+glamor,glamour
+globalization,globalisation
+GM,General Manager
+GM&S,Growth Marketing & Sales
+GMP,Good Manufacturing Practices
+go see,Go & See
+Go-to-market,Go to market,GTM
+GOC credit pool,general opportunity cost credit pool
+GOC credit,general opportunity cost credit
+GOM,Global Operating Model
+GOTH,gothenburg
+GP,General Practitioner
+GPH,Global Public Health
+GPOs,Group Purchasing Organizations
+GPS,Global Provisioning Services
+GRA,Global Remote Access
+GRC,Governance Risk & Compliance
+Gregory,Gregor,Greg,Gregg
+groveling,grovelling
+GRP,Gross Rating Point
+GSA,General Service Administration
+GSC,Global Sourcing Center
+GSD,Getting Stuff Done
+GTM,Go-to-Market,Go to Market
+GURU,gurugram/delhi
+GUVA,gurugram/delhi vatika
+Gx,Generic
+gynecology,gynaecology
+HAMB,hamburg
+HAMM,hamburg mio
+HANO,hanoi
+harbor,harbour
+Harold,Hal,Harry
+Harris,Harrison,Harry
+HAS,Health Saving Account
+HC,Human Capital
+HCP,Health Care Professional
+HCV,Health Care Value,Healthcare Value
+HD,High Definition
+HDHP,High Deductible Health Plans
+HDMI,High-Definition Multimedia Interface
+healthcare,health care
+HELS,helsinki
+hemorrhage,haemorrhage
+HEV,Hybrid Electric Vehicle
+HIT,Health-care IT
+HIV,Human Immunodeficiency Virus
+HMG,Her Majesty's Government
+HOCH,ho chi minh
+HONG,hong kong
+honor,honour
+HOUS,houston
+HP,Hewlett Packard
+HPP,Healthcare Payor & Provider
+HQ,Headquarters
+HR,Human Resources
+HRA,Health Reimbursement Account
+HRE,Human Resources & Employment
+HRM,Human Resources Management
+HRO,Human Resource Outsourcing
+HRSG,Heat Recovery Steam Generator
+HSA,Health Savings Account
+HSBB,High Speed Broadband
+HSE,Health safety environment
+HSPA,High Speed Packet Access
+HSS,Health Systems & Services
+HTA,Health Technology Assessment
+HTS,High-throughput Screening
+humor,humour
+HVAC,Heating Ventilation & Air Conditioning
+i-Consumer,iConsumer
+I&DA,Implementation & Delivery Assurance
+IAAS,Infrastructure as a Service
+IaC,Infrastructure as Code
+IAM,Identity and Access Management
+IASB,International Accounting Standards Board
+IATA,International Air Transport Association
+IBD,Independent Broker Dealers
+IBS,Irritable Bowel Syndrome
+IBT,Income before Tax
+ICE,Integrated Customer Experience,Intercontinental Exchange
+ICF,Insulating Concrete Forms
+ICG,Interviewer Core Group
+ICT,Information & Communications Technology
+IDLP,Information Leak Detection & Prevention
+IDN,Integrated Delivery Network
+IDP,Independent Diligence Phase or Initial Diagnostic Phase
+IFA,Industry Functional Analyst
+IFC,Industry Functional Consultant
+IFE,In Flight Entertainment
+IFRS,International Financial Reporting Standards
+IFS,Industry Functional Specialist
+IIRC,If I Recall Correctly
+ILP,Information Leak Prevention
+ILW,Initial Leadership Workshop
+IM,Inventory management
+IM,Investment management
+IMO,Integration Management Office
+IND,Investigational New Drug
+Inpatient,In-patient
+instill,instil
+INT,Associate
+IP,Intellectual Property
+IPA,investment promotion agency
+IPC,Information Protection & Control
+IPD,Initial Performance Diagnosis
+IPO,Initial Public Offering
+IPP,Integrated Product Planning
+IPTV,Internet Protocol Television
+IR,Investor Relations
+IRRM,Integrated Risk Return Management
+ISA,Information Security Assessment
+Isabel,Isabelle,Isabella,Belle,Bella,Izzy
+ISTA,istanbul
+IT,Information Technology
+ITMM,IT Merger Management
+ITS,IT Support
+iTV,Internet television
+IV,Intra venous,Intravenous
+IWPP,Integrated Water Power Plant
+JA,Business Analyst
+Jacqueline,Jacquelyn,Jackie
+JAKA,jakarta
+James,Jim,Jimmy,Jamie
+Jared,Jerry
+JASC,Junior Associate
+JDDA,Junior/ Jr. Data Analyst
+JEEL,jeddah elixir
+Jefferson,Jeff
+Jeffrey,Jeffery,Geoffrey,Jeff
+JEM,Junior Engagement Manager
+JEME,Associate
+Jennifer,Jen,Jenny,Jennie,Jenne
+Jeremy,Jeremiah,Jerry
+JERS,new jersey jersey city
+Jessica,Jess,Jessie
+jeweler,jeweller
+jewelery,jewellery
+JIT,Just In Time
+JOHA,johannesburg
+John,Jack
+Jonathan,John,Jon,Jonny
+Joseph,Joe,Joey
+Joshua,Josh
+JRAS,Junior Associate
+judgment,judgement
+Judith,Judy,Judie
+Judson,Jud
+JV,Joint Venture
+K-12,Kindergarten to year 12 education
+K-13,Secondary education
+K2R,Knowledge to Relevance
+KARA,karachi
+KARG,Knowledge Access Reference Guide
+Katelyn,Katelynn,Kate,Katie,Lynn
+Katherine,Katharine,Kathryn,Kathrine,Kathrynne,Kate,Kathie,Kathy,Katie,Katy
+KDF,Associate
+KDPP,Associate
+KDSF,Associate
+Kenneth,Ken,Kenny
+kickoff,kick-off
+kilometer,kilometre
+Kimberly,Kimberley,Kim
+KIP,Knowledge Investment Project
+KO,Knowledge object
+KOL,Key Opinion Leader
+KPI,Key Performance Indicator
+KSA,Kingdom of Saudi Arabia
+KSF,Key Success Factors
+KT,knowledge transfer
+KUAL,kuala lumpur
+KUWA,kuwait city
+KYIV,kyiv
+label,lable
+labor,labour
+LAGO,lagos
+LAN,Local area network
+LATAM,Latin America
+Laurence,Lawrence,Lorence,Lorenzo,Larry
+LBO,Leveraged Buyout
+LCC,Low Cost Country
+LCD,Liquid Crystal Display
+LDCS,Local Director of Client Services
+LDM,Leadership Development Model
+LEED,Leadership in Energy Efficient Design
+leukemia,leukaemia
+leveled,levelled
+LFO,Leveraged Fly Out
+libeled,libelled
+license ,licence
+LIMA,lima
+LISB,lisbon
+liter,litre
+LMC,Local Mobility Coordinator
+LMP,Location Managing Partner
+LNG,Liquefied Natural Gas
+LOA,Leave Of Absence
+Localization,localisation
+LOE,Level of Effort
+LOM,Local Office Manager
+LOND,london
+LONM,london mio
+LONV,london eversholt
+LOP,Letter of Proposal
+louver,louvre
+LPP,Linear Performance Pricing
+LSAN,southern california
+LSI,Learning for Social Impact
+LSM,living Standard Measure
+LTC,Long-Term Care
+LTE,Long-Term Evolution
+LUAN,luanda
+Lucille,Lucile,Lucy
+Luke,Lucas,Luke
+luster,lustre
+LUXE,luxembourg
+LVHC,Low volume high complexity
+LXP,Learning Experience Platform (contact Thomas Prevost)
+LYON,lyon
+LYOR,lyon orphoz
+M&A,Mergers & Acquisitions
+M&C,Mindset & Capability
+M&S,Marketing & Sales
+M2M,Machine to Machine
+MA,Medical Affairs
+MAC,Mexico Audio Conferencing
+Madeleine,Madeline,Madelyn,Maddie,Maddy
+MADM,madrid mio
+MADR,madrid
+MADS,madrid s4g maria de molina
+MAN,Manufacturing
+MANA,manama
+maneuver,manoeuvre
+maneuver,manoeuvre
+Martin,Mart,Marty
+marvelous,marvellous
+Marvin,Mervin,Marv,Merv
+Matthew,Matt,Mat,Matty,Mattie
+Matthias,Matt,Mat,Matty,Mattie
+Maximilian,Max
+Maxwell,Max
+MBS,Mobile Broadband System
+MCG,Mexico Center for Government
+McKC,Mexico Knowledge Center
+MCSN,Multichannel Solution N@vigator framework
+MD,Medical Doctor
+MDF,Medium-density Fibreboard
+MDGs,Millennium Development Goals
+MDIR,Managing Director
+MDL,Mexico Digital Labs
+MDS,Mexico Design System
+ME,Associate
+meager,meagre
+MECE,Mutually Exclusive & Collectively Exhaustive
+MEDE,medellin
+Megan,Meghan,Meg
+MELB,melbourne
+Melissa,Missy
+mementos,mementoes
+meter,metre
+MEXI,mexico city
+MFG,Manufacturing
+MFV,Managing for Value
+MGI,Mexico Global Institute
+MGM,Management Group Members (MGMs)
+MI,Management infrastructure
+MIAM,miami
+Michael,Mikael,Mike,Mikey
+MIFA,Material & Information Flow Analysis
+MILA,milan
+millimeter,millimetre
+MINN,minneapolis lasalle
+MIP,Most Influential Person
+MIRA,miramar
+Mitchell,Mitch
+MLD,Mexico Leadership Development
+MM,Materials Management
+MM,Merger Management
+MMBA,mini-MBA
+MMOG,Massively Multiplayer Online Game
+MNC,Multinational Corporation
+MNCH,Maternal Neonatal & Child Health
+MNLA,manila
+MNP,Mobile Number Portability
+mobilize,mobilise
+modeling,modelling
+MoF,Mexico on Finance
+monolog,monologue
+MOSC,moscow
+MPS,Meeting Planning Services
+MRO,Maintenance Repair & Operations
+MROI,Maximum Return on Investment
+MSA,Master Service Agreement
+MSE,Market Spend Effectiveness
+MTDE,montreal design
+MTRL,montreal
+MTRY,monterrey
+MTVD,montevideo
+multi-channel,multichannel
+MUME,mumbai express towers
+MUMF,mumbai fifc
+MUMK,mumbai maker maxity
+MUNI,munich
+MUNM,munich mio
+MUNS,munster
+MVNO,Mobile Virtual Network Operators
+MVP,Minimum Viable Product
+NAIR,nairobi
+Nathan,Nathaniel,Nate,
+naturalize,naturalise
+NCE,New Chemical Entity
+NDA,Non-Disclosure Agreement
+neighbor,neighbour
+NELP,New Exploration Licensing Policy
+NERC,North American Electric Reliability Corporation
+NFC,Near Field Communication
+NGI,Next Generation Infrastructure
+NHS,National Health Service
+Nicholas,Nicolas,Nick,Nicky
+NME,New Molecular Entity
+NOC,National Oil Company
+NORW,norwalk
+NPA,Non-performing Asset
+NPL,Non-performing Loan
+NPO,New Partners Orientation seminar
+NPS,Net Promoter Scores
+NPV,Net Present Value
+NRI,Non-resident Indian
+NSN,Nokia Siemens Network
+NSW,Negotiating Skills Workshop
+NTDS,Neglected Tropical Diseases
+NTO,National Tourism Organizations
+NURE,nuremberg
+NURS,astana
+NYBR,new york 195 broadway
+NYFA,new york - caserta
+NYMP,new york mio park
+NYTH,new york 711 3rd ave
+NYWT,new york 3wtc
+O&O,Outsourcing & Offshoring
+O&T,Operations & Technology
+OBI,Overhead Benchmarking Initiative
+OD,Org Design,Organization Design
+odor,odour
+OECD,Organisation for Economic Co-operation & Development
+OEE,Overall Equipment Effectiveness
+OEM,Original Equipment Manufacturers
+offense,offence
+OFM,Office Manager
+OFSE,Oilfield services
+OFT,One Firm Tech
+OHI,Organizational Health Index
+OI,Organizational Insights
+OLED,Organic Light Emitting Diode
+OM,Operations Manager
+Opex,Operational expenditure
+OPI,Operational Performance Improvement
+OPP,Organization performance profile survey
+OPS,Operations
+Optimization,Optimisation
+ORC,Organic Ranking Cycle
+ORG,Organization
+Organisation,Organization
+organize,organise
+OS&E,Operating Supplies & Equipment
+OSAK,kansai osaka
+OSB,Oriented Strand Board
+OSLA,oslo
+OTA,Online Travel Agency
+OTC,Over the Counter,Over-the-counter
+OTLAFI,Omission Transcription Language Arithmetic Format Inconsistency
+OTSI,Office Solution Implementation Team
+OTT,Over the Top,Over-the-Top
+P/E,PE
+P&C,Property & Casualty
+P&H,Performance & Health,Performance and Health
+PA,Practice Analyst
+PaaS,Platform as a Service
+paleontology,palaeontology
+Pamela,Pam
+PANA,panama city
+paneled,panelled
+PAOR,paris orphoz
+paralyze,paralyse
+PARI,paris
+PASC,Practice ASC
+Patricia,Pat,Patty,Patti,Pattie,Tricia,Trisha,Trish
+Patrick,Pat
+PBA,Practice BA
+PBM,Pharmacy Benefit Management
+PBS,Public Broadcasting Service
+PC,Personal computer
+PCM,Phase Change Material
+PCOC,People Committee Oversight Committee
+PCP,Primary Care Practitioner
+PCT,Primary Care Trust
+PD,Practice Document
+PDM,Professional Development Manager
+PDs,Practice Documents
+PDX,Product Development Transformation
+PE,Practice Expert
+PE,Private Equity,Price to Earnings
+pediatric,paediatric
+peer to peer,peer-to-peer
+PEM,Practice EM
+PEPI,Private Equity & Principal Investors
+PEPI,Private Capital
+PERT,perth
+PET,Polyethylene terephthalate
+Peter,Pete
+PFI,Public Finance Initiative
+Pharma,Pharmaceutical
+PHIL,philadelphia
+Philip,Phillip,Phil
+PHOE,phoenix
+PIPE,Private Investment in Public Equity
+PITT,pittsburgh
+PIV,Paragraph IV
+PJAS,Business Analyst
+PJRA,Associate
+PM,PMs,product manager
+PMcK,Platform Mexico
+PMM,Post Merger Management
+PMO,Program Management Office
+PMP,Pharmaceutical & Medical Products,Pharmaceuticals & Medical Products
+PMTCT,Prevention of Mother to Child Transmission
+POC,Proof of Concept
+POI,Portfolio of initiatives
+POJN,poznan
+POP,People and Organizational Performance
+popularize,popularise
+POS,Point of Sale
+PP,Production Planning
+PPA,Power Purchase Agreement
+PPP,Public-Private Partnerships
+PPR,Practice Principal
+PPT,PowerPoint
+practice ,practise
+PRAG,prague
+pretense,pretence
+PRIN,Principal
+private-label,private label
+program,programme
+prolog,prologue
+PS,Problem Solving
+PSS,Problem Solving Session
+PSEM,Practice SEM
+PSM,Purchasing & Supply Management
+PSP,Public Sector Practice
+PSTN,Public Switched Telephone Network
+PUC,Public Utility Commission (US)
+PV,Photovoltaics
+PVC,Polyvinyl chloride
+PVR,Personal Video Recorder
+QA,Quality Assurance
+QDA,Qualitative Data Analysis
+QITO,quito
+QSI,Quality of Service Index
+QSR,Quick-service Restaurant
+quarreling,quarrelling
+Quentin,Quintin,Quenton,Quinton,Quinn
+R&D,Research & Development
+R&I,Research & Information
+R&R,Reach & Relevance
+RA,Rheumatoid Arthritis
+Ramp up,Ramp-up
+rancor,rancour
+RASCI,Responsible Approval Support Consent Input Informed
+Raymond,Raymund,Ray
+RBD,Rapid Branding Diagnostic
+RCM,Revenue Cycle Management
+RDF,Refuse Derived Fuel
+realize,realise
+Rebecca,Rebekah,Becky,Beckie,Becca
+recognize,recognise
+REDD,Reducing Emissions from Deforestation in Developing countries
+Reginald,Reg,Reggie
+REITs,Real Estate Investment Trusts
+reveled,revelled
+RFI,Request for information
+RFID,Radio Frequency Identification
+RFP,Request for Proposal
+RFQ,Request for Quotes
+RFX,Request for Information Proposal or Quotation
+Richard,Dick,Rick,Ricky,Rich,Richie
+Rick,Ricky
+RIEL,riyadh elixir
+rigor,rigour
+RIMS,Remote Infrastructure Management Services
+RIOD,rio de janeiro
+RIYA,riyadh
+Robert,Bob,Bobby,Rob,Robbie,Robby
+ROCE,Return on Capital Employed
+ROE,Return on Equity
+ROI,Return on Investment
+ROIC,Return on invested capital
+ROME,rome
+Ronald,Ron,Ronnie,Ronny
+ROV,Real Options Valuation
+RTF,Refuse to File
+RTP,Real time pricing
+RTS,Recovery and transformation,Recovery & transformation
+rumor,rumour
+RWA,Risk Weighted Assets
+Rx,Branded drugs
+S&L,Spans and Layers,Spans & Layers
+S&M,Sales & Marketing
+SA,Associate
+SaaS,Software-as-a-Service
+saber,sabre
+SALV,salvador
+Samuel,Sam,Sammy
+SAN,Storage Area Network
+SANF,bay area san francisco
+SANJ,san jose
+SAOP,sao paulo
+SAR,Mexico's semi annual review process
+SASC,Senior Associate
+satirize,satirise
+savior,saviour
+savor,savour
+savory,savoury
+SBA,Business Analyst
+SCA,Sustainable Competitive Advantage
+SCADA,Supervisory Control & Data Acquisition
+scepter,sceptre
+SCM,Supply Chain Management
+Scott,Scotty,Scottie
+SCP,Structure Conduct Performance
+SCPC,Business Analyst
+SCSH,Client Service Shareholder
+SD,Sales & Distribution
+SDIR,Director
+SDOM,santo domingo
+SE,Senior Expert
+SEC,Securities & Exchange Commission
+sellside,sell side,sell-side
+SEM,Senior Engagement Manager
+SEOU,seoul
+SES,Senior Executive Service
+SFDE,bay area san franciscodesign
+SFEL,Business Analyst Senior Fellow
+SFP,Sustainable Fisheries Partnership
+SHAN,shanghai
+SHE,Health safety environment
+SHEN,shenzhen
+SHI,Statutory Health Insurers
+SIFC,Senior Industry Functional Consultant
+SIM,Subscriber Identity Module
+SING,singapore
+SINM,singapore mio
+SIP,Social Innovation Practice
+SJPR,singapore mio
+skillful,skilful
+SLAs,Service Line Agreements
+SLI,Service Line Investments
+SLVY,bay area silicon valley
+Smart phones,Smartphones
+SMB,Small & Medium Business
+SME,Small & Medium Enterprise
+SME,Subject Matter Expert
+SMED,Single Minute Exchange of Die
+SNA,Social Network Analysis
+SNP,Supply Network Planning
+SNTG,santiago
+SO,Service Operations
+SOE,State Owned Enterprises
+somber,sombre
+SP,senior partner
+SPs,senior partners
+SPE,Senior Practice Expert
+specter ,spectre
+splendor,splendour
+SPPR,Senior Practice Principal
+SPS,Practice Specialist
+SRAS,Senior Associate
+SRI,Socially Responsible Investing
+SRP,Sustainability & Resource Productivity
+SSO,Social Sector Office
+STAC,S&CF Insights,SCF Insights
+STAC,Strategy & Trend Analysis Center
+STAM,stamford
+standardize,standardise
+Stanley,Stan
+start up,start-up
+STDE,stockholm design
+Stephen,Steven,Stephan,Steffan,Stefan,Steve,Stevie
+STLO,st. louis
+STME,stockholm material economics
+STOC,stockholm
+STTL,seattle
+Stuart,Stewart,Stu
+STUT,stuttgart
+sub-prime,subprime
+SUMM,new jersey summit
+SVPB,Associate,Vice President
+SW,Software
+SWOT,Strengths Weaknesses Opportunities & Threats
+SYDN,sydney
+symbolize,symbolise
+T&D,Transmission & Distribution
+T&L,Transport & Logistics
+T&M,Time & Material
+TA,Therapeutic Area
+TAIP,taipei
+TAMP,tampa
+TAVI,Transcatheter Aortic Valve Implementation
+TB,Tuberculosis
+TC,Transformational Change
+TCO,Total Cost of Ownership
+TCS,Total Consumer Spend
+TELA,tel aviv
+telco,telecom,telecommunications
+Terence,Terrence,Terrance,Terry
+TEU,Twenty-foot Equivalent Unit
+TEX,Transformation Express
+theater,theatre
+Theodore,Ted,Teddy,Theo
+THIR,thiruvananthapuram
+Thomas,Tom,Tommy
+Timothy,Tim,Timmy
+TMCS,Travel management companies
+TOKY,tokyo
+TOP,Total Operational Performance
+TOPM,toronto pricemetrix
+TORO,toronto
+TOU,Time of Use
+TPS,Toyota Production System
+travelog,travelogue
+TRS,Total Return to Shareholders
+TSA,Transitional Service Agreements
+TSAT,Talent System Assessment Tool
+TT&L,Travel Transport & Logistics
+TTE,Top Team Effectiveness
+TXN,Divestitures,M&A,Transactions
+tyre,tire
+UAE,United Arab Emirates
+UAVs,Unmanned Aerial Vehicles
+UCP,Use Case Points
+UGC,User-generated Content
+UMPP,Ultra Mega Power Projects
+USDA,United States Department of Agriculture
+VA,Value Assurance
+VALE,valencia s4g professor beltran
+valor,valour
+VANC,vancouver
+vapor,vapour
+vaporize,vaporise
+VAR,Value at Risk
+VBA,Visual Basic
+VBM,Value Based Management
+VBS,Value Based Selling
+VC,Venture Capital
+VDI,Virtual Desktop Infrastructure
+vg,business presentation specialist
+VGI,business presentation specialists
+video game,video-game
+video-on-demand,video on demand
+VIEN,vienna
+vigor,vigour
+VILX,vienna lixto
+Vincent,Vince
+vise,vice
+VLCC,Very Large Crude Carrier
+VOD,Video on Demand
+VOIP,Voice Over Internet Protocol
+VPBB,Associate,Vice President
+VPD,Vaccine Preventable Diseases
+VPSB,Associate,Vice President
+VSAT,Data Over Satellite
+WAC,Wholesale Applications Community
+WACC,Weighted Average Cost of Capital
+WALT,waltham
+Walter,Walt
+WAN,Wide Area Network
+WARS,warsaw
+WASH,washington dc
+waste-to-energy,waste to energy
+WCC,World Class Commissioning
+WEF,World Economic Forum
+Wesley,Wes
+WHR,Waste Heat Recovery
+willful,wilful
+William,Bill,Billy,Will,Willie,Willy
+WIP,Work in Progress
+WM,Warehouse Management
+woolen,woollen
+WROC,wroclaw
+WTE,Waste-to-Energy,Waste to Energy
+WTO,World Trade Organization
+Zachary,Zachariah,Zacharias,Zack,Zach
+ZAGR,zagreb
+ZBB,Zero Based Budgeting
+ZURI,zurich
+CVM,customer value management
+O&G,Oil and Gas
+O&G,Oil & Gas
+1,One
+2,two
+3,three
+4,four
+5,five
+6,six
+7,seven
+8,eight
+9,nine
+10,ten
+AI Practice,Advanced Industries Practice
+GEM,Global Energy Materials
+SHAPE,Social Healthcare Public Sector Entities
+DNA,Mexico Digital
+DNA,Digital and Analytics
+DNA,Digital & Analytics
+TMT,Telecom Media Hight Tech
+TMT,Telecommunications Media Hight Tech
+TLI,Travel Logistics Infrastructure
+GMS,Growth Marketing Sales 
+S&CF,Strategy Corporate Finance
+SCF,Strategy Corporate Finance
+CCN,Client Capability Network
+Chem & Ag,Chemicals & Agriculture
+Chem and Ag,Chemicals & Agriculture
+MedTech, medical technology
+Med Tech, medical technology
+CX,Customer Experience
+CPAAS,Communications Platform as a Service
+QB,QuantumBlack,Quantum Black

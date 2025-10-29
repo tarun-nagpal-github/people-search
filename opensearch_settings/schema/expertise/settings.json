@@ -1,0 +1,67 @@
+{
+	"index.knn": true,
+	"index.mapping.total_fields.limit": 2000,
+	"max_result_window": 2000000,
+	"index.search.slowlog.threshold.query.warn": "2s",
+	"index.search.slowlog.threshold.query.info": "1s",
+	"indexing.slowlog.source": "0",
+	"analysis": {
+	  "analyzer": {
+		"stemmer_analyzer": {
+		  "tokenizer": "standard",
+		  "filter": [
+			"lowercase",
+			"stemmer_filter",
+			"stop_filter"
+		  ]
+		},
+		"synonym_analyzer": {
+		  "tokenizer": "standard",
+		  "filter": [
+			"lowercase",
+			"synonym_filter",
+			"stop_filter"
+		  ]
+		},
+		"synonym_and_stemmer_analyzer": {
+			"tokenizer": "standard",
+			"filter": [
+			  "lowercase",
+			  "stemmer_filter",
+			  "synonym_filter",
+			  "stop_filter"
+			]
+		  },
+		"phonetic_analyzer": {
+		  "type": "custom",
+		  "tokenizer": "standard",
+		  "filter": [
+			"lowercase",
+			"asciifolding",
+			"metaphone_filter"
+		  ]
+		}
+	  },
+	  "filter": {
+		"synonym_filter": {
+		  "ignore_case": "true",
+		  "type": "synonym",
+		  "synonyms": []
+		},
+		"stemmer_filter": {
+		  "type": "stemmer",
+		  "language": "english"
+		},
+		"stop_filter": {
+		  "type": "stop",
+		  "ignore_case": true,
+		  "stopwords": []
+		},
+		"metaphone_filter": {
+		  "type": "phonetic",
+		  "encoder": "metaphone",
+		  "replace": false
+		}
+	  }
+	}
+  }

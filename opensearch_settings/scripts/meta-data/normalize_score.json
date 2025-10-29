@@ -1,0 +1,6 @@
+{
+  "script": {
+    "lang": "painless",
+    "source": "(params.weight / 1.0) * (1.0 - 1.0 / (_score + 1))"
+  }
+}

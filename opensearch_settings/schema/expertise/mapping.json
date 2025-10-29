@@ -1,0 +1,340 @@
+{
+  "properties": {
+    "gender": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "name.title": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "name.first": {
+      "type": "text",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        },
+        "ph": {
+          "type": "text",
+          "analyzer": "phonetic_analyzer"
+        }
+      }
+    },
+    "name.last": {
+      "type": "text",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        },
+        "ph": {
+          "type": "text",
+          "analyzer": "phonetic_analyzer"
+        }
+      }
+    },
+    "location.street.number": {
+      "type": "integer"
+    },
+    "location.street.name": {
+      "type": "text",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        },
+        "stm": {
+          "type": "text",
+          "analyzer": "stemmer_analyzer"
+        },
+        "snm": {
+          "type": "text",
+          "analyzer": "synonym_analyzer"
+        }
+      }
+    },
+    "location.city": {
+      "type": "text",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        },
+        "stm": {
+          "type": "text",
+          "analyzer": "stemmer_analyzer"
+        },
+        "snm": {
+          "type": "text",
+          "analyzer": "synonym_analyzer"
+        }
+      }
+    },
+    "location.state": {
+      "type": "text",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        },
+        "stm": {
+          "type": "text",
+          "analyzer": "stemmer_analyzer"
+        },
+        "snm": {
+          "type": "text",
+          "analyzer": "synonym_analyzer"
+        }
+      }
+    },
+    "location.country": {
+      "type": "text",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        },
+        "stm": {
+          "type": "text",
+          "analyzer": "stemmer_analyzer"
+        },
+        "snm": {
+          "type": "text",
+          "analyzer": "synonym_analyzer"
+        }
+      }
+    },
+    "location.postcode": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "location.coordinates.latitude": {
+      "type": "float"
+    },
+    "location.coordinates.longitude": {
+      "type": "float"
+    },
+    "location.timezone.offset": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "location.timezone.description": {
+      "type": "text",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        },
+        "stm": {
+          "type": "text",
+          "analyzer": "stemmer_analyzer"
+        },
+        "snm": {
+          "type": "text",
+          "analyzer": "synonym_analyzer"
+        }
+      }
+    },
+    "email": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "login.uuid": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "login.username": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "login.password": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "login.salt": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "login.md5": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "login.sha1": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "login.sha256": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "dob.date": {
+      "type": "date"
+    },
+    "dob.age": {
+      "type": "integer"
+    },
+    "registered.date": {
+      "type": "date"
+    },
+    "registered.age": {
+      "type": "integer"
+    },
+    "phone": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "cell": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "id.name": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "id.value": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "picture.large": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "picture.medium": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "picture.thumbnail": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "nat": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "info.seed": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "info.results": {
+      "type": "integer"
+    },
+    "info.page": {
+      "type": "integer"
+    },
+    "info.version": {
+      "type": "keyword",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    }
+  }
+}

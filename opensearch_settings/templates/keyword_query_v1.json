@@ -1,0 +1,65 @@
+{
+  "size": "{{ROWS}}{{^ROWS}}10{{/ROWS}}",
+  "from": "{{START}}{{^START}}0{{/START}}",
+  "track_total_hits": true,
+  "_source": [
+    "gender",
+    "name.*",
+    "location.*",
+    "email",
+    "login.*",
+    "dob.*",
+    "registered.*",
+    "phone",
+    "cell",
+    "id.*",
+    "picture.*",
+    "nat",
+    "info.*"
+  ],
+  "aggs": {
+    "gender": {
+      "terms": {
+        "field": "gender.keyword",
+        "size": 100
+      }
+    },
+    "nationality": {
+      "terms": {
+        "field": "nat.keyword",
+        "size": 100
+      }
+    },
+    "country": {
+      "terms": {
+        "field": "location.country.keyword",
+        "size": 100
+      }
+    },
+    "state": {
+      "terms": {
+        "field": "location.state.keyword",
+        "size": 100
+      }
+    },
+    "city": {
+      "terms": {
+        "field": "location.city.keyword",
+        "size": 100
+      }
+    },
+    "timezone": {
+      "terms": {
+        "field": "location.timezone.offset.keyword",
+        "size": 100
+      }
+    }
+  },
+  "query": {
+    "bool": {
+      "filter": "QUERY_FILTERS",
+      "should": "QUERY_SHOULDS",
+      "minimum_should_match": "{{MINIMUM_SHOULD_MATCH}}{{^MINIMUM_SHOULD_MATCH}}1{{/MINIMUM_SHOULD_MATCH}}"
+    }
+  }
+}

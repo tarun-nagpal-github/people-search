@@ -1,0 +1,7 @@
+{
+	"index.mapping.total_fields.limit": 2000,
+	"max_result_window": 2000000,
+	"index.search.slowlog.threshold.query.warn": "2s",
+	"index.search.slowlog.threshold.query.info": "1s",
+	"indexing.slowlog.source": "0"
+  }
