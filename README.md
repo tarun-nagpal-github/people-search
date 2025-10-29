@@ -2,6 +2,10 @@
 
 A powerful people search application built with React.js, FastAPI, and OpenSearch. This full-stack project provides a modern web interface and REST API to search and index people data, with support for both local Docker deployments and AWS OpenSearch.
 
+## Architecture
+
+![Search Architecture](search_architecture.png)
+
 ## Features
 
 - ⚛️ **React.js Frontend**: Modern, responsive user interface (coming soon)
