@@ -1,9 +1,10 @@
 # People Search
 
-A powerful people search application built with FastAPI and OpenSearch. This project provides a REST API to search and index people data, with support for both local Docker deployments and AWS OpenSearch.
+A powerful people search application built with React.js, FastAPI, and OpenSearch. This full-stack project provides a modern web interface and REST API to search and index people data, with support for both local Docker deployments and AWS OpenSearch.
 
 ## Features
 
+- ⚛️ **React.js Frontend**: Modern, responsive user interface (coming soon)
 - 🔍 **Advanced Search**: Multi-field keyword search with fuzzy matching
 - 📊 **OpenSearch Integration**: Built on OpenSearch for scalable and fast search capabilities
 - 🐳 **Docker Support**: Easy local development with Docker Compose
@@ -34,6 +35,7 @@ people-search/
 ## Prerequisites
 
 - Python 3.9+
+- Node.js 16+ and npm (for React.js frontend - coming soon)
 - Docker and Docker Compose
 - (Optional) AWS credentials for AWS OpenSearch
 
@@ -210,29 +212,42 @@ python data_indexer/indexer.py
 
 ### Project Components
 
-1. **Data Indexer** (`data_indexer/indexer.py`):
+1. **Frontend** (`frontend/`):
+   - React.js application (coming soon)
+   - Modern, responsive user interface
+   - Integration with the People Search API
+
+2. **Data Indexer** (`data_indexer/indexer.py`):
    - Fetches user data from APIs
    - Indexes data into OpenSearch
    - Handles index creation and updates
 
-2. **API Controller** (`data_retrieval/controller.py`):
+3. **API Controller** (`data_retrieval/controller.py`):
    - FastAPI application
    - Search endpoints with pagination
    - Health check endpoints
 
-3. **OpenSearch Migrations** (`opensearch_settings/migrations.py`):
+4. **OpenSearch Migrations** (`opensearch_settings/migrations.py`):
    - Manages index schemas
    - Handles index creation and updates
    - Configures analyzers and mappings
 
 ## Technologies Used
 
+### Frontend
+- **React.js**: Modern JavaScript library for building user interfaces (coming soon)
+
+### Backend
 - **FastAPI**: Modern Python web framework
+- **Uvicorn**: ASGI server
+
+### Search & Data
 - **OpenSearch**: Distributed search and analytics engine
 - **OpenSearch-py**: Python client for OpenSearch
+
+### Infrastructure
 - **Docker**: Containerization
 - **Boto3**: AWS SDK for Python (for AWS OpenSearch)
-- **Uvicorn**: ASGI server
 
 ## Troubleshooting
 
