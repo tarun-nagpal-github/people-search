@@ -8,14 +8,14 @@ A powerful people search application built with React.js, FastAPI, and OpenSearc
 
 ## Features
 
-- ⚛️ **React.js Frontend**: Modern, responsive user interface (coming soon)
+- 🔄 **Data Indexing**: Automated data ingestion from external APIs
 - 🔍 **Advanced Search**: Multi-field keyword search with fuzzy matching
 - 📊 **OpenSearch Integration**: Built on OpenSearch for scalable and fast search capabilities
+- 📈 **OpenSearch Dashboards**: Pre-configured dashboard for data visualization
 - 🐳 **Docker Support**: Easy local development with Docker Compose
 - ☁️ **AWS Compatible**: Supports AWS OpenSearch with IAM authentication
 - 📡 **REST API**: FastAPI-based RESTful API with automatic documentation
-- 🔄 **Data Indexing**: Automated data ingestion from external APIs
-- 📈 **OpenSearch Dashboards**: Pre-configured dashboard for data visualization
+- ⚛️ **React.js Frontend**: Modern, responsive user interface (coming soon)
 
 ## Project Structure
 
