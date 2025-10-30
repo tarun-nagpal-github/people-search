@@ -1,6 +1,8 @@
 # People Search
 
-A powerful people search application built with React.js, FastAPI, and OpenSearch. This full-stack project provides a modern web interface and REST API to search and index people data, with support for both local Docker deployments and AWS OpenSearch.
+A powerful people search application built with OpenSearch and FastAPI. This full-stack project provides a modern web interface and REST API to search and index people data, with support for both local Docker deployments and AWS OpenSearch.
+
+> **⚠️ Disclaimer**: This is a demo application for learning purposes and does not contain real data. All data used in this application is generated for demonstration purposes only.
 
 ## Architecture
 
@@ -39,7 +41,6 @@ people-search/
 ## Prerequisites
 
 - Python 3.9+
-- Node.js 16+ and npm (for React.js frontend - coming soon)
 - Docker and Docker Compose
 - (Optional) AWS credentials for AWS OpenSearch
 
